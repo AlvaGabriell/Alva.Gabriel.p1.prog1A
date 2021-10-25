@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635164418 source:c:\users\gab_s\documents\codeblockstp\parcialteorico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
